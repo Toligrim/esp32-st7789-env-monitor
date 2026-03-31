@@ -2,6 +2,12 @@
 
 Minimal portrait environment dashboard for ESP32 with a `1.47"` `ST7789` TFT display, `SHT30` temperature/humidity sensor, and `TEMT6000` ambient light sensor.
 
+## Photos
+
+![Front view](images/setup-front.jpg)
+
+![Top view](images/setup-top.jpg)
+
 ## Features
 
 - Portrait UI for `172x320` `ST7789`
